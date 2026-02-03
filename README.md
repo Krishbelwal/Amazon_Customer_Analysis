@@ -46,12 +46,12 @@ The objective of this project is to **analyze customer shopping behavior** and p
 
 
 ## 9. Folder Structure
-Dataset.csv - Raw dataset.
-project_objective.txt - Project objective details.
-Data_cleaning.sql - SQL scripts for data cleaning.
-Analysis.sql - SQL queries for analysis.
-views.sql - SQL views created for Power BI import.
-Project_Dashboard.png - Screenshot of final dashboard.
+1. Dataset.csv - Raw dataset.
+2. project_objective.txt - Project objective details.
+3. Data_cleaning.sql - SQL scripts for data cleaning.
+4. Analysis.sql - SQL queries for analysis.
+5. views.sql - SQL views created for Power BI import.
+6. Project_Dashboard.png - Screenshot of final dashboard.
 
 ## 10. How to Use -
 1. Open the `Dataset.csv` to see the dataset.
@@ -67,7 +67,7 @@ Project_Dashboard.png - Screenshot of final dashboard.
 3. **Analysis:** Wrote SQL queries for top categories, payment methods, subscription analysis, seasonal sales, sizes, and colors.  
 4. **Views Creation:** Created SQL views for simplified Power BI import.  
 5. **Power BI Import:** Imported SQL views into Power BI.  
-   **Basic Cleaning in Power BI:** Renamed columns, adjusted data types, applied DAX measures for calculations.  
+6  **Basic Cleaning in Power BI:** Renamed columns, adjusted data types, applied DAX measures for calculations.  
 7. **Dashboard Development:** Built interactive dashboards with charts, tables, slicers, and KPIs.  
 8. **Insights and Recommendation:** Derived key findings and formulated recommendations based on dashboard analysis.  
 
