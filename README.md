@@ -19,7 +19,10 @@ The objective of this project is to **analyze customer shopping behavior** and p
 - **Data Import:** Excel (Kaggle dataset)  
 - **Data Cleaning:** SQL + Power BI 
 - **Analysis:** SQL (queries and aggregations)  
-- **Data Transformation / Modelling / Visualisation:** Power BI 
+- **Data Transformation / Modelling / Visualisation:** Power BI
+
+Dataset - 
+<a href="https://github.com/Krishbelwal/Amazon_Customer_Analysis/blob/main/Dataset.csv">Dataset</a>
 
 ## 5. Key Insights
 - **Top Categories:** Clothing is the most purchased category (92K purchases), followed by Accessories (59K), Footwear (29K), and Outerwear (13K).  
