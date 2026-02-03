@@ -37,7 +37,7 @@ The objective of this project is to **analyze customer shopping behavior** and p
 - Provide flexible payment options like PayPal and Credit Card to encourage conversions.  
 
 ## 7. Dashboard Preview
-![Project Dashboard](https://github.com/Krishbelwal/Amazon_Customer_Analysis/blob/main/Project_Dashboard.png)
+![Project Dashboard](Project_Dashboard)
 
 
 ## 8. Folder Structure
