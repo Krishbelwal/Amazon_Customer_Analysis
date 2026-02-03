@@ -1,6 +1,5 @@
-# Amazon Customer Shopping Analysis
+## Amazon Customer Shopping Analysis
 
-# 📊 Dashboard Preview
 ![Dashboard](Project_Dashboard.png)
 
 ## 1. Project Overview
