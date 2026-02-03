@@ -1,4 +1,4 @@
-## Amazon Customer Shopping Analysis
+# Amazon Customer Shopping Analysis
 
 ![Dashboard](Project_Dashboard.png)
 
