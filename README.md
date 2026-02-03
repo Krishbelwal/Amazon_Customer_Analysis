@@ -40,7 +40,7 @@ Dataset -
 - Provide flexible payment options like PayPal and Credit Card to encourage conversions.  
 
 ## 7. Dashboard Preview
-![Project Dashboard](Project_Dashboard)
+<a href="https://github.com/Krishbelwal/Amazon_Customer_Analysis/blob/main/Project_Dashboard.png">View Dashboard</a>
 
 
 ## 8. Folder Structure
