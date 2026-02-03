@@ -46,12 +46,12 @@ The objective of this project is to **analyze customer shopping behavior** and p
 
 
 ## 9. Folder Structure
-Dataset.csv - Raw dataset
-project_objective.txt - Project objective details
-Data_cleaning.sql - SQL scripts for data cleaning
-Analysis.sql - SQL queries for analysis
-views.sql - SQL views created for Power BI import
-Project_Dashboard.png - Screenshot of final dashboard
+Dataset.csv - Raw dataset.
+project_objective.txt - Project objective details.
+Data_cleaning.sql - SQL scripts for data cleaning.
+Analysis.sql - SQL queries for analysis.
+views.sql - SQL views created for Power BI import.
+Project_Dashboard.png - Screenshot of final dashboard.
 
 ## 10. How to Use -
 1. Open the `Dataset.csv` to see the dataset.
