@@ -1,6 +1,7 @@
 # Amazon Customer Shopping Analysis
 
-Project_Dashboard.png
+# 📊 Dashboard Preview
+![Dashboard](Project_Dashboard.png)
 
 ## 1. Project Overview
 This project analyzes Amazon customer shopping behavior to understand purchase trends, customer preferences, and payment patterns. By combining SQL for data cleaning & data extraction and Power BI for visualization, the project provides actionable insights to help improve business decision-making and marketing strategies.
